@@ -1,0 +1,13 @@
+C:\Users\UnderKo\source\repos\TlauncherMods\TlauncherParser\bin\Debug\TlauncherParser.exe.config
+C:\Users\UnderKo\source\repos\TlauncherMods\TlauncherParser\bin\Debug\TlauncherParser.exe
+C:\Users\UnderKo\source\repos\TlauncherMods\TlauncherParser\bin\Debug\TlauncherParser.pdb
+C:\Users\UnderKo\source\repos\TlauncherMods\TlauncherParser\bin\Debug\LibParser.dll
+C:\Users\UnderKo\source\repos\TlauncherMods\TlauncherParser\bin\Debug\LibStr.dll
+C:\Users\UnderKo\source\repos\TlauncherMods\TlauncherParser\bin\Debug\LibParser.pdb
+C:\Users\UnderKo\source\repos\TlauncherMods\TlauncherParser\bin\Debug\LibStr.pdb
+C:\Users\UnderKo\source\repos\TlauncherMods\TlauncherParser\obj\Debug\TlauncherParser.csproj.AssemblyReference.cache
+C:\Users\UnderKo\source\repos\TlauncherMods\TlauncherParser\obj\Debug\TlauncherParser.csproj.SuggestedBindingRedirects.cache
+C:\Users\UnderKo\source\repos\TlauncherMods\TlauncherParser\obj\Debug\TlauncherParser.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\TlauncherMods\TlauncherParser\obj\Debug\TlauncherParser.csproj.CopyComplete
+C:\Users\UnderKo\source\repos\TlauncherMods\TlauncherParser\obj\Debug\TlauncherParser.exe
+C:\Users\UnderKo\source\repos\TlauncherMods\TlauncherParser\obj\Debug\TlauncherParser.pdb

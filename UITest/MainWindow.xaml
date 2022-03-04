@@ -1,0 +1,27 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UITest"
+        xmlns:Controls="clr-namespace:UICustom.Controls;assembly=UICustom" x:Class="UITest.MainWindow"
+        mc:Ignorable="d" AllowsTransparency="True" WindowStyle="None"
+        Title="MainWindow" Height="450" Width="800" Background="#00000000">
+    <Border CornerRadius="7">
+        <Grid>
+            <Controls:UpGBorder/>
+            <Grid>
+                <Grid Margin="0,4,10,0" VerticalAlignment="Top">
+                    <StackPanel VerticalAlignment="Top" Orientation="Horizontal" HorizontalAlignment="Right" >
+                        <Border Width="20" Height="20" CornerRadius="25" Background="#F5A37A"></Border>
+                        <Border Width="20" Height="20" CornerRadius="25" Background="#388BDB" Margin="10,0,0,0"></Border>
+                        <Border Width="20" Height="20" CornerRadius="25" Background="#9267D7" Margin="10,0,0,0"></Border>
+                    </StackPanel>
+                    <Label HorizontalAlignment="Center" VerticalAlignment="Center" Content="TlauncherMods" FontSize="16" Foreground="White" Padding="0,0,0,0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Comic Sans MS"></Label>
+                </Grid>
+            </Grid>
+            <Grid Visibility="Collapsed" x:Name="grid_items"/>
+
+        </Grid>
+    </Border>
+</Window>

@@ -1,0 +1,5 @@
+C:\Users\UnderKo\source\repos\TlauncherMods\LibElmFramework\bin\Debug\LibElmFramework.dll
+C:\Users\UnderKo\source\repos\TlauncherMods\LibElmFramework\bin\Debug\LibElmFramework.pdb
+C:\Users\UnderKo\source\repos\TlauncherMods\LibElmFramework\obj\Debug\LibElmFramework.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\TlauncherMods\LibElmFramework\obj\Debug\LibElmFramework.dll
+C:\Users\UnderKo\source\repos\TlauncherMods\LibElmFramework\obj\Debug\LibElmFramework.pdb

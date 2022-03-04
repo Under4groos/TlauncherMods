@@ -1,0 +1,5 @@
+C:\Users\UnderKo\source\repos\TlauncherMods\LibStr\bin\Debug\LibStr.dll
+C:\Users\UnderKo\source\repos\TlauncherMods\LibStr\bin\Debug\LibStr.pdb
+C:\Users\UnderKo\source\repos\TlauncherMods\LibStr\obj\Debug\LibStr.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\TlauncherMods\LibStr\obj\Debug\LibStr.dll
+C:\Users\UnderKo\source\repos\TlauncherMods\LibStr\obj\Debug\LibStr.pdb

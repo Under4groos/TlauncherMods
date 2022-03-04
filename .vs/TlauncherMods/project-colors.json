@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "22d4d57a-4f9a-4811-bc3e-7508ec26ac31": {
+      "ProjectGuid": "22d4d57a-4f9a-4811-bc3e-7508ec26ac31",
+      "DisplayName": "TlauncherMods",
+      "ColorIndex": 0
+    },
+    "e8b4a674-94b1-42ed-88a6-92b58891ade0": {
+      "ProjectGuid": "e8b4a674-94b1-42ed-88a6-92b58891ade0",
+      "DisplayName": "TlauncherParser",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "3f40293d-630f-45a4-9111-644219ff2985": {
+      "ProjectGuid": "3f40293d-630f-45a4-9111-644219ff2985",
+      "DisplayName": "LibParser",
+      "ColorIndex": 2
+    },
+    "89d7fcfe-03a8-4ce6-b682-b34660dba905": {
+      "ProjectGuid": "89d7fcfe-03a8-4ce6-b682-b34660dba905",
+      "DisplayName": "LibStr",
+      "ColorIndex": 3
+    },
+    "6ac07fb7-dbbc-47dc-8fba-96199d69f3fa": {
+      "ProjectGuid": "6ac07fb7-dbbc-47dc-8fba-96199d69f3fa",
+      "DisplayName": "UITest",
+      "ColorIndex": 4
+    },
+    "b01b0f2f-6d41-4569-8295-0729549932fb": {
+      "ProjectGuid": "b01b0f2f-6d41-4569-8295-0729549932fb",
+      "DisplayName": "LibElmFramework",
+      "ColorIndex": 5
+    },
+    "e8faac00-694b-4659-9da3-8172735c83de": {
+      "ProjectGuid": "e8faac00-694b-4659-9da3-8172735c83de",
+      "DisplayName": "UICustom",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

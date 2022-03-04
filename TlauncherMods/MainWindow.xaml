@@ -1,0 +1,61 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TlauncherMods"
+        xmlns:Controls="clr-namespace:TlauncherMods.Controls" x:Class="TlauncherMods.MainWindow"
+        mc:Ignorable="d" Style="{DynamicResource WindowStyle}" 
+        Title="MainWindow" Height="800" Width="1200">
+    <Grid>
+        <Grid VerticalAlignment="Top" Height="30">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Controls:LBorder x:Name="bmin" Content="&#xE738;"  Style="{StaticResource StyleBorderHover}" LabelStyle="{StaticResource SegoeMDL2StyleLabelText}" Width="48"/>
+                <Controls:LBorder x:Name="bmax" Content="&#xE71A;"  Style="{StaticResource StyleBorderHover}" LabelStyle="{StaticResource SegoeMDL2StyleLabelText}" Width="48"/>
+                <Controls:LBorder x:Name="bclose" Content="&#xE711;"  Style="{StaticResource StyleBorderHover}" LabelStyle="{StaticResource SegoeMDL2StyleLabelText}" Width="48"/>
+
+            </StackPanel>
+
+        </Grid>
+        <Grid Margin="0,35,0,35">
+            <Border HorizontalAlignment="Left" Width="100" Background="#0CFFFFFF">
+                <Grid>
+                    <!--<Controls:LBorder Visibility="Collapsed" x:Name="button_get_version"
+                        Content="Mods"  Style="{StaticResource StyleBorderHover}" 
+                        LabelStyle="{StaticResource StyleLabelText}" FontSize="20" 
+                        LabelHorizontal ="Left" LabelMargin="0,0,0,0"/>-->
+
+                    <ListBox x:Name="list_versions" ScrollViewer.VerticalScrollBarVisibility="Hidden" ItemContainerStyle="{DynamicResource _ListBoxItemStyle_hover}" Margin="0,0,0,0" Background="{x:Null}" BorderBrush="{x:Null}">
+
+                    </ListBox>
+                </Grid>
+            </Border>
+            <Border Background="#0CFFFFFF" Margin="105,0,0,0">
+                <Grid x:Name="grid_ccle">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="5,5,0,0" HorizontalAlignment="Left">
+                        <TextBox x:Name="tx_search" Style="{DynamicResource StyleTextBox}"  Height="35" Width="250"></TextBox>
+                        <Controls:LBorder CornerRadius="10" Margin="5,0,0,0" Content="&#xE71E;" FontSize="24" Style="{StaticResource StyleBorderHover}" LabelStyle="{StaticResource SegoeMDL2StyleLabelText}" Width="50" PreviewMouseLeftButtonDown="LBorder_PreviewMouseLeftButtonDown_2" />
+
+                    </StackPanel>
+                    
+                    <ListBox x:Name="find_list_addons" Visibility="Collapsed" Margin="0,40,0,30" ScrollViewer.CanContentScroll="False" ScrollViewer.VerticalScrollBarVisibility="Hidden" ItemContainerStyle="{DynamicResource _ListBoxItemStyle_hover}" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+
+                    </ListBox>
+                    
+                    <ListBox x:Name="list_addons" Margin="0,40,0,30" ScrollViewer.CanContentScroll="False" ScrollViewer.VerticalScrollBarVisibility="Hidden" ItemContainerStyle="{DynamicResource _ListBoxItemStyle_hover}" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+
+                    </ListBox>
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Left">
+                        <Label x:Name="min_count_frame" Content="0" Style="{StaticResource StyleLabelText}" Height="30" VerticalContentAlignment="Center"></Label>
+                        <Controls:LBorder  Content="&#xF0D3;" FontSize="24" Style="{StaticResource StyleBorderHover}" LabelStyle="{StaticResource SegoeMDL2StyleLabelText}" Width="48"  Height="30" PreviewMouseLeftButtonDown="LBorder_PreviewMouseLeftButtonDown"/>
+                        <Label x:Name="cur_frame" Content="400" Style="{StaticResource StyleLabelText}" Height="30" VerticalContentAlignment="Center"></Label>
+
+                        <Controls:LBorder  Content="&#xF0D2;" FontSize="24" Style="{StaticResource StyleBorderHover}" LabelStyle="{StaticResource SegoeMDL2StyleLabelText}" Width="48"  Height="30" PreviewMouseLeftButtonDown="LBorder_PreviewMouseLeftButtonDown_1"/>
+                        <Label x:Name="max_count_frame" Content="800" Style="{StaticResource StyleLabelText}" Height="30" VerticalContentAlignment="Center"></Label>
+                    </StackPanel>
+                </Grid>
+            </Border>
+        </Grid>
+        <Border x:Name="resizeborder" Width="20" Height="20" HorizontalAlignment="Right" VerticalAlignment="Bottom" Background="#02FFFFFF" Opacity="0.1"></Border>
+    </Grid>
+</Window>

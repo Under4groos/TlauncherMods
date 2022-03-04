@@ -1,0 +1,10 @@
+C:\Users\UnderKo\source\repos\TlauncherMods\UICustom\bin\Debug\UICustom.dll
+C:\Users\UnderKo\source\repos\TlauncherMods\UICustom\bin\Debug\UICustom.pdb
+C:\Users\UnderKo\source\repos\TlauncherMods\UICustom\obj\Debug\Controls\UpGBorder.g.cs
+C:\Users\UnderKo\source\repos\TlauncherMods\UICustom\obj\Debug\UICustom_MarkupCompile.cache
+C:\Users\UnderKo\source\repos\TlauncherMods\UICustom\obj\Debug\UICustom_MarkupCompile.lref
+C:\Users\UnderKo\source\repos\TlauncherMods\UICustom\obj\Debug\Controls\UpGBorder.baml
+C:\Users\UnderKo\source\repos\TlauncherMods\UICustom\obj\Debug\UICustom.g.resources
+C:\Users\UnderKo\source\repos\TlauncherMods\UICustom\obj\Debug\UICustom.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\TlauncherMods\UICustom\obj\Debug\UICustom.dll
+C:\Users\UnderKo\source\repos\TlauncherMods\UICustom\obj\Debug\UICustom.pdb

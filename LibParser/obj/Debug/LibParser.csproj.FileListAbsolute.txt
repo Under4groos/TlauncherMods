@@ -1,0 +1,9 @@
+C:\Users\UnderKo\source\repos\TlauncherMods\LibParser\bin\Debug\LibParser.dll
+C:\Users\UnderKo\source\repos\TlauncherMods\LibParser\bin\Debug\LibParser.pdb
+C:\Users\UnderKo\source\repos\TlauncherMods\LibParser\bin\Debug\LibStr.dll
+C:\Users\UnderKo\source\repos\TlauncherMods\LibParser\bin\Debug\LibStr.pdb
+C:\Users\UnderKo\source\repos\TlauncherMods\LibParser\obj\Debug\LibParser.csproj.AssemblyReference.cache
+C:\Users\UnderKo\source\repos\TlauncherMods\LibParser\obj\Debug\LibParser.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\TlauncherMods\LibParser\obj\Debug\LibParser.csproj.CopyComplete
+C:\Users\UnderKo\source\repos\TlauncherMods\LibParser\obj\Debug\LibParser.dll
+C:\Users\UnderKo\source\repos\TlauncherMods\LibParser\obj\Debug\LibParser.pdb
